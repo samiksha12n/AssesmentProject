@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assessment Project2\Storing Teachers record\Storing Teachers record\bin\Debug\Storing Teachers record.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assessment Project2\Storing Teachers record\Storing Teachers record\bin\Debug\Storing Teachers record.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assessment Project2\Storing Teachers record\Storing Teachers record\bin\Debug\Storing Teachers record.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assessment Project2\Storing Teachers record\Storing Teachers record\obj\Debug\Storing Teachers record.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assessment Project2\Storing Teachers record\Storing Teachers record\obj\Debug\Storing Teachers record.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assessment Project2\Storing Teachers record\Storing Teachers record\obj\Debug\Storing Teachers record.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Phase 1\Assessment Project2\Storing Teachers record\Storing Teachers record\obj\Debug\Storing Teachers record.pdb
