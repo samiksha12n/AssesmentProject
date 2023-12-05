@@ -56,7 +56,7 @@ namespace Storing_Teachers_record
             {
                 Console.Write("");
             }
-            Console.WriteLine("5 Ravi Seventh A");
+            
         }
     }
 }
